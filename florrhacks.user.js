@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         florrhacks
-// @namespace    https://github.com/Lyzev/Tokenlogger
+// @namespace    hhttps://github.com/Xesteral/Florriohacks
 // @version      1.2
 // @description  pro hacks for florr
 // @author       Lyzev
